@@ -1,4 +1,46 @@
-# 19 Progressive Web Applications (PWA): Text Editor
+# PWA Text Editor
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Screenshot of application](<Assets/jate screenshot.png>)
+
+## Table of Contents
+
+- [Link](#link)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+## Link
+
+[J.A.T.E.](https://jate-pwa-blt3.onrender.com/)
+
+## Description
+
+A simple text editor, which can be installed onto your device as a PWA.
+
+## Installation
+
+Visit the link above and click the `Install` button. An alert asking if you would like to install will appear. Simply click the install button and it will install onto your device.
+
+## Usage
+
+J.A.T.E is used like any other text editor, simply click on the text box and type whatever you want.
+
+## License
+
+This application is covered under the MIT license.
+Please see here for more details (https://opensource.org/licenses/MIT)
+
+## Questions
+
+For any questions regarding this project, feel free to contact me through the following:
+
+- Email: alexmajors0613@gmail.com
+- GitHub: https://github.com/Denitrix
+
+<!-- # 19 Progressive Web Applications (PWA): Text Editor
 
 ## Your Task
 
@@ -142,3 +184,4 @@ You are required to submit the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+ -->
